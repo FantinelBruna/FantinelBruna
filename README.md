@@ -22,34 +22,15 @@ Atualmente, sigo aprofundando meus conhecimentos em desenvolvimento de software 
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Technologies
 
-<div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-6C63FF?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-6C63FF?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6C63FF?style=flat&logo=css3&logoColor=white)
 
-### Linguagens
+![Java](https://img.shields.io/badge/Java-2E8B57?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2E8B57?style=flat&logo=python&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-<br>
-
-<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-## 🛠️ Stack principal
-
-```text
-Backend       Java • Python
-Frontend      JavaScript • HTML • CSS
-Banco de Dados SQL
-Ferramentas   Git • GitHub
+![SQL](https://img.shields.io/badge/SQL-F59E0B?style=flat&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F59E0B?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F59E0B?style=flat&logo=postgresql&logoColor=white)
